@@ -9,5 +9,9 @@
     ],
   "titleBlocklist": [
     "切り抜き"
-    ]
+    ],
+  "wildcardKeywordMap": {
+    "LimitedEdition": ["にじさんじ ASMR", "にじさんじ"],
+    "LiveEvents": ["生配信", "ライブイベント"]
+  }
 }
