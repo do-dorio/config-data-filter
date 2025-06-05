@@ -3,7 +3,7 @@
     "route": "comment2434",
     "lastUpdated": "2025-06-06T04:15:00+09:00"
   },
-  "authorBlacklist": [
+  "authorBlocklist": [
         'セラフ・ダズルガーデン',
         'Kuzuha',
         'ローレン・イロアス',
